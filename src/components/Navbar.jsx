@@ -11,9 +11,11 @@ const Navbar = () => {
             <span className="font-semibold">Responsible Pet Foundation</span>
           </a>
           <nav className="hidden items-center gap-6 text-sm text-white/80 md:flex">
-            <a href="#mission" className="hover:text-white">Mission</a>
             <a href="#programs" className="hover:text-white">Programs</a>
+            <a href="#donate" className="hover:text-white">Donate</a>
             <a href="#impact" className="hover:text-white">Impact</a>
+            <a href="#advocacy" className="hover:text-white">Advocacy</a>
+            <a href="#education" className="hover:text-white">Education</a>
           </nav>
           <button className="rounded-xl border border-white/20 bg-white/10 px-3 py-2 text-white backdrop-blur hover:bg-white/20 md:hidden" aria-label="Open menu">
             <Menu size={18} />

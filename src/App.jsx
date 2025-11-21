@@ -10,7 +10,7 @@ function App() {
       <Hero />
       <ParallaxSections />
       <footer className="relative z-10 border-t border-white/10 bg-black/40 py-10 text-center text-white/70">
-        © 2025 PetSales Responsible Foundation — Doing good, one adoption at a time.
+        © 2025 Responsible Pet Foundation — Funding crisis housing, first-six-weeks support, emergency vet care, advocacy, and public education.
       </footer>
     </div>
   );
